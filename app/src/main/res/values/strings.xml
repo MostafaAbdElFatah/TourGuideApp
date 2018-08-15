@@ -1,0 +1,352 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <integer-array name="tourist_places_images">
+        <item>@drawable/egypt_cairo_pyramids_and_camels</item>
+        <item>@drawable/egypt_cairo_egyptian_museum_mummified_monkey</item>
+        <item>@drawable/egypt_cairo_al_azhar_mosque</item>
+        <item>@drawable/egypt_cairo_hanging_church_interior</item>
+        <item>@drawable/egypt_cairo_perfume_shop_in_khan_el_khalili</item>
+        <item>@drawable/egypt_cairo_muhammad_ali_mosque_on_the_citadel</item>
+        <item>@drawable/egypt_cairo_sultan_hassan_mosque</item>
+        <item>@drawable/egypt_cairo_view_from_the_top_of_bab_zuweila</item>
+        <item>@drawable/egypt_cairo_architectural_detail_in_madrassa</item>
+        <item>@drawable/egypt_cairo_ibn_tulun_mosque</item>
+        <item>@drawable/egypt_cairo_the_cairo_tower</item>
+        <item>@drawable/egypt_cairo_roda_island_nilometer</item>
+        <item>@drawable/egypt_cairo_mosque_of_al_hakim</item>
+        <item>@drawable/egypt_cairo_the_cairo_tower</item>
+        <item>@drawable/egypt_saqqara_step_pyramid_of_djoser</item>
+        <item>@drawable/chaar_hachamaim_synagogue_cairo</item>
+    </integer-array>
+
+    <array name="tourist_places_names">
+        <item>Pyramids of Giza</item>
+        <item>The Egyptian Museum</item>
+        <item>Al-Azhar Mosque</item>
+        <item>Old Cairo (Coptic Cairo)</item>
+        <item>Khan el-Khalili (Souq Quarter)</item>
+        <item>The Citadel</item>
+        <item>Sultan Hassan Mosque</item>
+        <item>Bab Zuweila</item>
+        <item>Al-Muizz li-Din Allah Street</item>
+        <item>Ibn Tulun Mosque</item>
+        <item>Zamalek</item>
+        <item>Roda Island</item>
+        <item>Mosque of Al-Hakim</item>
+        <item>Downtown Cairo</item>
+        <item>Saqqara</item>
+        <item>Chaar Hachamaim Synagogue</item>
+    </array>
+    <array name="tourist_places_description">
+        <item>The Pyramids of Giza are Cairo\'s number one half-day trip and a must-do attraction on
+            everyone\'s itinerary. Right on the edge of the city, these fourth dynasty funerary
+            temples have been wowing travelers for centuries and continue to be one of the country\'s
+            major highlights. Despite the heat, the dust, and the tourist hustle, you can\'t miss
+            a trip here.</item>
+        <item>The absolutely staggering collection of antiquities displayed in Cairo\'s
+            Egyptian Museum makes it one of the world\'s great museums.
+            You would need a lifetime to see everything on show. The museum was
+            founded in 1857 by French Egyptologist August Mariette and moved to its
+            current home - in the distinctive powder-pink mansion in Downtown Cairo - in 1897.</item>
+        <item>Al-Azhar Mosque is the finest building of Cairo\'s Fatimid era, and one of the city\'s
+            earliest surviving mosques, completed in AD 972. It\'s also one of the world\'s oldest
+            universities.</item>
+        <item>This small church-filled cluster of twisty laneways lies within the walls of
+            Old Babylon where the Roman Emperor Trajan first built a fortress along the Nile.
+            Parts of the Roman towers still preside over the main street.</item>
+        <item>Khan el-Khalili is one of the world\'s great shopping experiences.
+            This Middle Eastern souq (bazaar) is a labyrinthine collection of
+            skinny alleyways established as a shopping district in AD 1400 that
+            still rings with the clang of metal workers and silversmiths.</item>
+        <item>In a commanding location at the foot of the Mokattam Hills, Cairo\'s citadel
+            was built by Saladin in 1176.</item>
+        <item>One of the finest examples of Mamluk architecture in the world, Sultan Hassan Mosque
+            is a vision of Arabic artistry with an abundance of stalactite detailing and
+            intricate arabesque features. It was built in 1356-63 for the Sultan Hassan el-Nasir.</item>
+        <item>Of all the Islamic Cairo district\'s gates, Bab Zuweila is the most interesting.
+            You can climb to the top of this medieval era relic (built in the 11th century)
+            for some amazing rooftop views over Islamic Cairo.</item>
+        <item>The northern section of Al-Muizz li-Din Allah Street is rimmed by
+            fine Mamluk buildings that have been painstakingly restored to their former glory.
+            The Madrassa of as-Salih Ayyub, built in 1247, is a showcase of the tranquil
+            simplicity of Islamic architecture.</item>
+        <item>The second oldest mosque still standing in Cairo, Ibn Tulun Mosque,
+            was built between AD 876 and 879 and modeled on the Kaaba in Mecca (Saudi Arabia).
+            At the time it was built, it was the largest mosque in existence.</item>
+        <item>The Nile island of Gezira is home to the district of Zamalek and the majority of Cairo\'s arty
+            boutiques and hipster restaurants. Dating from the mid 19th century, the entire area has a distinctly
+            European feel to its architecture with wide boulevards rimmed by Jacaranda trees and splendidly
+            ornate Belle Époque mansions (many of which are now home to various embassies).</item>
+        <item>Lovely Roda Island - just south of Gezira Island - is home to Monastirli Palace,
+            once the residence of an Ottoman pasha. Inside the palace gardens, right at the
+            island\'s southern tip, is Cairo\'s Nilometer - that was used to measure the ebb and
+            flow of the Nile and predict the annual flood heights.</item>
+        <item>Caliph Al-Hakim is one of the most fascinating rulers of Egypt. This Fatimid leader was
+            renowned for his terrifying rule over the land, which included frequent murders of his royal
+            household staff, nightly patrols of the streets of his city dressed incognito on a donkey to make
+            sure his subjects were behaving themselves, and issuing bizarre rulings across the country
+            (such as banning the eating of the Egyptian mallow-leaf called molokheya because only he wanted
+            to be able to consume it).</item>
+        <item>If you want to capture a sense of late 19th-century Cairo when the city was nicknamed
+            the "Paris of the East" take a stroll through the downtown district with your gaze diverted up
+            at the car-exhaust blackened architecture rather than on the bedlam at street level.</item>
+        <item>The vast necropolis of Saqqara is home to the "other pyramids" and a day trip out here
+            is just as rewarding as a trip to Giza\'s pyramids.
+            Location: 30 kms south of Cairo</item>
+        <item>The Synagogue is an incredible example of the diversity of architecture in Cairo and
+            represents a myriad of different styles (Baroque, Art Deco) in bas relief with
+            overlays of Pharonic Art. </item>
+    </array>
+
+    <integer-array name="hotel_images">
+        <item>@drawable/golden_boat_foating</item>
+        <item>@drawable/almasah_hotel_and_spa</item>
+        <item>@drawable/cataract_pyramids_resort</item>
+        <item>@drawable/le_passage_cairo_hotel_casino</item>
+        <item>@drawable/the_gabriel_boutique_hotel</item>
+        <item>@drawable/pyramids_park_resort_cairo</item>
+        <item>@drawable/dusit_thani_lakeview_cairo</item>
+        <item>@drawable/renaissance_cairo_mirage_city_hotel</item>
+        <item>@drawable/fairmont_nile_city</item>
+        <item>@drawable/grand_nile_tower_</item>
+        <item>@drawable/kempinski_nile_hotel_cairo</item>
+        <item>@drawable/safir_hotel_cairo</item>
+        <item>@drawable/cairo_marriott_hotel_omar_khayyam_casino</item>
+        <item>@drawable/mena_house_hotel</item>
+        <item>@drawable/radisson_blu_hotel</item>
+        <item>@drawable/fairmont_heliopolis_cairo</item>
+        <item>@drawable/concorde_elsalam_hotel_cairo</item>
+        <item>@drawable/fairmont_towers_heliopolis</item>
+        <item>@drawable/sonesta_hotel_tower_casino_cairo</item>
+    </integer-array>
+
+    <array name="hotel_names">
+        <item>Golden Boat Floating Hotel</item>
+        <item>Al Masah Hotel And Spa</item>
+        <item>Cataract Pyramids Resort</item>
+        <item>Le Passage Cairo Hotel Casino</item>
+        <item>The Gabriel Boutique Hotel</item>
+        <item>Pyramids Park Resort Cairo</item>
+        <item>Dusit Thani LakeView Cairo</item>
+        <item>Renaissance Cairo Mirage City Hotel</item>
+        <item>Fairmont Nile City</item>
+        <item>Grand Nile Tower (Formerly Grand Hyatt Cairo)</item>
+        <item>Kempinski Nile Hotel, Cairo</item>
+        <item>Safir Hotel Cairo</item>
+        <item>Cairo Marriott Hotel Omar Khayyam Casino</item>
+        <item>Mena House Hotel (Formerly Mena House Oberoi)</item>
+        <item>Radisson Blu Hotel, Cairo Heliopolis</item>
+        <item>Fairmont Heliopolis Cairo</item>
+        <item>Concorde El Salam Hotel Cairo</item>
+        <item>Fairmont Towers, Heliopolis</item>
+        <item>Sonesta Hotel Tower Casino Cairo</item>
+    </array>
+    <array name="hotel_descriptions">
+        <item>Overlooking the Nile and the Pyramids of Giza, this 5-star floating hotel features
+            free Wi-Fi, an outdoor pool and a sundeck with a bar. It is 5 minutes? walk from local
+            shopping outlets. A minibar, satellite TV and safety deposit box are equipped in all of
+            Golden Boat Floating Hotel?s units.</item>
+        <item>Al Masah Hotel and Spa features a terrace with a swimming pool. Located in the green area of
+            Nasr City, it offers 5 restaurants and a wellness centre. All the elegant rooms have a balcony.
+            All the rooms and suites at Al Masah have views of the terrace, the garden or the pool.</item>
+        <item>Featuring views of the great Pyramids, this resort on the edge of Cairo offers a charming
+            pool garden. Its 5 dining options include a buffet restaurant with live piano music.
+            The air-conditioned rooms at Cataract Pyramids are spacious and equipped with satellite
+            TVs and minibars.</item>
+        <item>Le Passage Cairo is only 2-minutes from the Cairo International Airport in Cairo?s
+            Heliopolis district. The hotel offers fine restaurants, a discotheque and a casino.</item>
+        <item>Situated in one of Cairo s affluent districts- Heliopolis, the Gabriel?s design is
+            inspired by classical era and is decorated with warm colours. It offers modern
+            accommodation with free Wi-Fi, an outdoor pool and a retail arcade.</item>
+        <item>Pyramids Park Resort Cairo is set in 25 acres of gardens, just 5 minutes drive from
+            the Pyramids. It has a 1750 square metre pool and all its rooms have balconies.
+            All the rooms at Pyramids Park are air conditioned and cable TV.</item>
+        <item>This stylish and contemporary 5-star hotel, situated in New Cairo, offers luxurious
+            accommodation in a sanctuary of tranquillity with an excellent location setting.
+            Dusit Thani is only about a 20-minute drive from Cairo Airport. It has easy access
+            to many tourist attractions</item>
+        <item>Featuring luxury accommodation with free Wi-Fi, this 5-star hotel is located 10 minutes?
+            drive from Cairo International Airport. It boasts a pool, fitness centre and restaurant.
+            Heliopolis is 10 minutes away by car. Furnished with an elegant décor</item>
+        <item>Located in the Nile City Towers by the River Nile, this 5-star hotel features a rooftop
+            pool deck with spectacular views across Cairo to the Pyramids. It offers 8 food and beverage
+            venues. All of this Fairmont Hotel?s soundproofed rooms are decorated with elegant Art Deco
+            furnishings.</item>
+        <item>Luxurious rooms and suites offer views across the River Nile at Grand Nile Tower on
+            Roda Island. The wellness centre also overlooks the Nile and the resort features 8
+            restaurants and an outdoor pool. The elegantly decorated rooms and suites at Grand Nile
+            Tower come with a work desk, satellite TV and minibar.</item>
+        <item>Situated in Cairo\'s affluent Garden City district, Kempinski Hotel offers luxurious
+            rooms on the shores of the Nile River. It features a wellness centre and a rooftop
+            swimming pool. Each of Kempinski\'s rooms is fitted with soundproofed windows, free Wi-Fi
+            and high definition LCD TVs with satellite channels.</item>
+        <item>A 10-minute walk from the Nile River embankment, Safir hotel in Cairo\'s city centre
+            offers luxurious rooms with balconies. It features an outdoor pool, gym and free Wi-Fi
+            in public areas. Each air-conditioned room is spacious and includes a work desk,
+            satellite TV and minibar.</item>
+        <item>Located in Cairo\'s Zamalek district, the Marriott Omar Khayyam offers luxurious rooms
+            with a balcony. It features an outdoor swimming pool, a casino and 14 food and beverage
+            outlets. All guest rooms at the Cairo Marriott feature satellite TV, a minibar, tea/coffee
+            facilities and elegant bathrooms.</item>
+        <item>Overlooking the Great Pyramids of Giza, this hotel is surrounded by 40 acres of green
+            gardens and has a spa, fitness centre and a pool. The rooms are decorated with handcrafted
+            furniture. All accommodations at Mena House Hotel have air conditioning and include
+            luxurious fabrics, a seating area and LCD TV.</item>
+        <item>Located in Cairo?s stylish Heliopolis district, the 5-star Radisson Blu offers
+            a rooftop pool with panoramic Cairo views. It has an extensive daily breakfast
+            buffet, free Wi-Fi and in-room LCD TVs. Guest rooms at Radisson Blu Hotel Cairo
+            Heliopolis feature modern décor, Select Comfort beds and a seating area.</item>
+        <item>Fairmont Heliopolis features 3 tennis courts, and a hot tub. It has 3 swimming pools
+            surrounded by a landscaped garden. Free Wi-Fi is available in all rooms. All rooms
+            feature touches of Egyptian heritage in their décor. Each air-conditioned rooms has
+            flat-screen TV, a minibar and a work desk.</item>
+        <item>Just a 25-minute drive from City Centre, Concorde El Salam Hotel Cairo is 6 km from
+            fashionable Heliopolis suburb. It features 9 restaurants, 2 outdoor pools, and private
+            stables. The rooms include flat-screen TVs and free Wi-Fi.</item>
+        <item>Situated in the Heliopolis neighbourhood, this 5-star hotel is a 10-minute drive from
+            Cairo Airport. It has 3 swimming pools, a modern fitness centre, and spacious rooms with
+            luxury bedding. Rooms at Fairmont Towers have parquet floors and floor-to-ceiling windows
+            with city and garden views.</item>
+        <item>Located in Nasr City residential area and a 10-minute drive from the airport, Sonesta
+            Hotel boasts 5 restaurants and 4 bars. It features an outdoor swimming pool and sun terrace.
+            All air-conditioned rooms at the Sonesta Hotel Tower and Casino Cairo are spacious and
+            elegantly decorated.</item>
+    </array>
+
+    <integer-array name="parks_images">
+        <item>@drawable/nile_river_garden</item>
+        <item>@drawable/alazhar_park_in_my_guid</item>
+        <item>@drawable/zamalek_gezira_island</item>
+        <item>@drawable/nilemeter_garden</item>
+        <item>@drawable/wadi_degla_cairo</item>
+        <item>@drawable/mokkatom_mountain_cairo</item>
+        <item>@drawable/egypt_western_desert</item>
+        <item>@drawable/japanese_garden_cairo</item>
+        <item>@drawable/gize_zoo_cairo</item>
+        <item>@drawable/international_equestrian_club_cairo</item>
+        <item>@drawable/sayyed_zeinab_cultural_park_cairo</item>
+        <item>@drawable/gabalaya_park_and_aquarium_cairo</item>
+    </integer-array>
+
+    <array name="parks_names">
+        <item>Nile River</item>
+        <item>Al-Azhar Park</item>
+        <item>Zamalek (Gezira Island)</item>
+        <item>Nilometer</item>
+        <item>Wadi Degla</item>
+        <item>Mokkatom Mountain</item>
+        <item>Western Desert</item>
+        <item>Japanese Garden</item>
+        <item>Giza Zoo</item>
+        <item>International Equestrian Club</item>
+        <item>Sayyed Zeinab Cultural Park</item>
+        <item>Gabalaya Park and Aquarium</item>
+    </array>
+    <array name="parks_descriptions">
+        <item>The Nile River is simply everything you expect it to be! Gorgeous and large,
+            it is bound to take your breath away and show you how amazing nature is.</item>
+        <item>it\'s a very beautiful well organized park, it has a variety of roses, flowers and trees
+            , and with some soft music at night which makes it so romantic , the restaurant studio Masr
+            is a great value to the place with it\'s Islamic architecture style which build with stones
+            , and the food is amazing , if you sit at the terrace you can see the magnificent citadel
+            with Mohamed Ali mosque on top of it and great sultan Hassan mosque and Madrasa with
+            it\'s 84 m high minaret all these gives you a great skyline.</item>
+        <item>This island is located in the Nile River between downtown Cairo and Giza,
+            and is characterized by upscale hotels, restaurants and pleasant gardens.</item>
+        <item>It really is - it is quiet, calm, a nice little park, shady, and the breeze from the
+            Nile is fabulous.</item>
+        <item>Just a few minutes from chaotic Cairo traffic, you can find this treasure of nature.
+        Easy to rich by taxi, entrance 5 le for foreigners, if you want to enter by car you will
+        pay 10 le. There is possibility to overnight in tent. You can consider this
+            as five billion stars hotel</item>
+        <item>We went there at night.. There are some cafés and restaurants with a great view of the city..
+            The view at night is amazing..</item>
+        <item>We found Djed Egypt Travel to take us on a 6 days desert safari in Western Desert.
+            Guide and drivers were enchanting. We enjoyed their attention and brilliant cooking.</item>
+        <item>This is a beautiful theme garden near the edge of what once was a beautiful winter
+            escape from Cairo.</item>
+        <item>the zoo is so big, has lots type of animals lions, Indian and African elephants,
+            nile crocodiles, seals, lion sea, polar bear, bears, white rhino,
+            giraffes, monkeys, camels. Very nice place to visit, i ,love animal life and this zoo
+            is full of it, we had our private guide and he made things easy for us, it is a place
+            to go again.</item>
+        <item>To enjoy horse racing and international horse racing, you should visit this place</item>
+        <item>one of the best heritage islamic places</item>
+        <item>This place used to be the pleasant Gabalaya Park and Aquarium, that landscaped gardens
+            with aquariums set in rocks (though not many actual fish), however. </item>
+    </array>
+
+    <integer-array name="resturants_images">
+        <item>@drawable/pizza_king</item>
+        <item>@drawable/momen</item>
+        <item>@drawable/sahraan</item>
+        <item>@drawable/papa_johns_pizza</item>
+        <item>@drawable/mcdonalds</item>
+        <item>@drawable/shawerma_elreem</item>
+        <item>@drawable/spectra</item>
+        <item>@drawable/cook_door</item>
+        <item>@drawable/shuffle</item>
+        <item>@drawable/prego</item>
+        <item>@drawable/manaeesh_elreem</item>
+        <item>@drawable/elhorany_seafood</item>
+        <item>@drawable/tarweeah</item>
+        <item>@drawable/aldahan</item>
+        <item>@drawable/baladina_</item>
+        <item>@drawable/buffalo_burger</item>
+        <item>@drawable/burger_king</item>
+        <item>@drawable/kfc</item>
+        <item>@drawable/arabiata_al_shabrawy</item>
+        <item>@drawable/elhattab_elsouri</item>
+        <item>@drawable/koshary_sayed_hanafy</item>
+    </integer-array>
+
+    <array name="resturants_names">
+        <item>Pizza King</item>
+        <item>Mo\'men</item>
+        <item>Sahraan</item>
+        <item>Papa John\'s Pizza</item>
+        <item>McDonald’s</item>
+        <item>Shawerma El Reem</item>
+        <item>Spectra</item>
+        <item>Cook Door</item>
+        <item>Shuffle</item>
+        <item>Prego</item>
+        <item>Manaeesh El Reem</item>
+        <item>El Horany Seafood</item>
+        <item>Tarweeah</item>
+        <item>Al Dahan</item>
+        <item>Baladina </item>
+        <item>Buffalo Burger</item>
+        <item>Burger King</item>
+        <item>KFC</item>
+        <item>Arabiata Al-Shabrawy</item>
+        <item>El Hattab El Souri</item>
+        <item>Koshary Sayed Hanafy</item>
+    </array>
+
+    <array name="resturants_address">
+        <item>Address:Faisal</item>
+        <item>Address:Faisal</item>
+        <item>Address:6th of October - Central Axis</item>
+        <item>Address:Haram</item>
+        <item>Address:Faisal</item>
+        <item>Address:Hadayek El Ahram</item>
+        <item>Address:Hadayek Al Ahram</item>
+        <item>Address:El Marioutia</item>
+        <item>Address:Hadayek El Ahram</item>
+        <item>Address:Faisal</item>
+        <item>Address:Haram</item>
+        <item>Address:Giza</item>
+        <item>Address:Mansoureya Street</item>
+        <item>Address:Mohandiseen</item>
+        <item>Address:Al Wahat Road</item>
+        <item>Address:Ard El Golf</item>
+        <item>Address:Tivoli Dome</item>
+        <item>Address:Heliopolis</item>
+        <item>Address:Roxi</item>
+        <item>Address:Nasr City</item>
+        <item>Address:Nasr City</item>
+    </array>
+
+</resources>
